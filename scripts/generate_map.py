@@ -14,23 +14,11 @@ df = pd.read_csv(csv_file)
 lat_center = df['lat'].mean()
 lon_center = df['lon'].mean()
 
-map = folium.Map(location=[lat_center, lon_center], zoom_start=13)
-
-color_dict = {
-    'ClujWifi': 'green',
-    'Wifi4EU': 'blue'
-}
+map = folium.Map(location=[lat_center, lon_center], zoom_start=15)
 
 for _, row in df.iterrows():
-    color = color_dict.get(row['tip_retea'], 'red')
-
-    folium.CircleMarker(
+    folium.Marker(
         location=[row['lat'], row['lon']],
-        radius=5,
-        color=color,
-        fill=True,
-        fill_color=color,
-        fill_opacity=0.7,
         popup=f"{row['SSID']} ({row['tip_retea']}, {row['zona']})"
     ).add_to(map)
 
@@ -38,7 +26,7 @@ map_interactive = os.path.join(maps_dir, 'wifi_cluj_interactive.html')
 map.save(map_interactive)
 print(f"Mapa interactiva salvata in {map_interactive}")
 
-map_heat = folium.Map(location=[lat_center, lon_center], zoom_start=13)
+map_heat = folium.Map(location=[lat_center, lon_center], zoom_start=14)
 heat_data = df[['lat', 'lon']].values.tolist()
 HeatMap(heat_data, radius = 15).add_to(map_heat)
 
