@@ -1,0 +1,326 @@
+[
+	{
+		"lat":"46.769141",
+		"lon":"23.577578",
+		"descriere":"Parcul Central",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.769163",
+		"lon":"23.591166",
+		"descriere":"Piata Unirii",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.769358",
+		"lon":"23.591908",
+		"descriere":"Str. Eroilor, Centrul de Informare Turistica",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.769609",
+		"lon":"23.597433",
+		"descriere":"Piata Stefan cel Mare",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.774023",
+		"lon":"23.58806",
+		"descriere":"Str Horea - str. Baritiu",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.772221",
+		"lon":"23.58421",
+		"descriere":"Emil Isac Opera Maghiara",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.783973",
+		"lon":"23.587788",
+		"descriere":"Piata Garii ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.774363",
+		"lon":"23.592638",
+		"descriere":"Piata Mihai Viteazul",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.769884",
+		"lon":"23.633322",
+		"descriere":"Parcul Sportiv Gheorgheni",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.76862",
+		"lon":"23.574637",
+		"descriere":"Parc Stadion ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.766998",
+		"lon":"23.567028",
+		"descriere":"Splaiul Independetei (la sala sporturilor) ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.771741",
+		"lon":"23.587621",
+		"descriere":"Piata Muzeului",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.770733",
+		"lon":"23.567052",
+		"descriere":"Parcul 14 iulie",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.76988",
+		"lon":"23.587304",
+		"descriere":"Memorandumului 10 - Memo10",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.768231",
+		"lon":"23.584235",
+		"descriere":"Motilor 5 - Alecsandri",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.768604",
+		"lon":"23.58497",
+		"descriere":"Motilor 3 - Petru Maior",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.758004",
+		"lon":"23.558047",
+		"descriere":"Parcul Primaverii",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.777935",
+		"lon":"23.611775",
+		"descriere":"Piata Marasti",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.766037",
+		"lon":"23.549941",
+		"descriere":"Piata Grigorescu",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.767015",
+		"lon":"23.571408",
+		"descriere":"Sala Polivalenta Sud-Est",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.767623",
+		"lon":"23.5697007",
+		"descriere":"Sala Polivalenta Nord",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.76281",
+		"lon":"23.54545",
+		"descriere":"SUN",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.767482",
+		"lon":"23.591189",
+		"descriere":"Strada Kogalniceanu UBB",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.767815",
+		"lon":"23.594016",
+		"descriere":"Strada Kogalniceanu Biblioteca",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.767427",
+		"lon":"23.601246",
+		"descriere":"Piata Cipariu",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.762045",
+		"lon":"23.606266",
+		"descriere":"Piata Ion Agarbiceanu ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.764362",
+		"lon":"23.574539",
+		"descriere":"Calea Motilor 93",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.755143",
+		"lon":"23.5565918",
+		"descriere":"str. Primaverii - str. Izlazului",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.772344",
+		"lon":"23.58178",
+		"descriere":"str. Dragalina ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.769542",
+		"lon":"23.58291",
+		"descriere":"Cardinal Iuliu Hossu ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.771139",
+		"lon":"23.597535",
+		"descriere":"Piata Avram Iancu",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.77423",
+		"lon":"23.590511",
+		"descriere":"Piata Mihai Viteazul - Tarom ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.77866",
+		"lon":"23.63319",
+		"descriere":"Parcul Intre Lacuri ",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.78278",
+		"lon":"23.62222",
+		"descriere":"Molnar Piuariu",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.77181",
+		"lon":"23.58807",
+		"descriere":"Emile Zola",
+		"SSID":"Cluj Wifi Free"
+	},
+	{
+		"lat":"46.764892",
+		"lon":"23.552606",
+		"descriere":"Parc Rozelor ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.764892",
+		"lon":"23.552606",
+		"descriere":"Parc Rozelor ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.769268",
+		"lon":"23.589092",
+		"descriere":"Piata Unirii, latura vestica",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.770687",
+		"lon":"23.589871",
+		"descriere":"Piata Unirii, latura nordica",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.766679",
+		"lon":"23.588791",
+		"descriere":"Str. Potaissa",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.754373",
+		"lon":"23.554648",
+		"descriere":"CTP Minerva",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.786266",
+		"lon":"23.605434",
+		"descriere":"CTP Piata 1 Mai",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.766091",
+		"lon":"23.553574",
+		"descriere":"Parc Grigorescu (1 Decembrie 1918)",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.756433",
+		"lon":"23.573412",
+		"descriere":"Parc Iuliu Prodan Zorilor ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.770324",
+		"lon":"23.578875",
+		"descriere":"Universitatea de Arta si Design (Parc Central) ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.760714",
+		"lon":"23.56444",
+		"descriere":"CTP Calea Manastur",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.770589",
+		"lon":"23.59597",
+		"descriere":"B-dul Eroilor (Cinema Victoria) ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.75861",
+		"lon":"23.550954",
+		"descriere":"CTP Statia Flora (Calea Floresti 75)",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.772081",
+		"lon":"23.595609",
+		"descriere":"Piata Avram Iancu Nord (zona Prefectura)",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.77176",
+		"lon":"23.59209",
+		"descriere":"CTP Sora spre Cartierul Manastur",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.770122",
+		"lon":"23.585173",
+		"descriere":"Str. Emil Isac ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.772223",
+		"lon":"23.585846",
+		"descriere":"Str. George Baritiu ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.767687",
+		"lon":"23.597264",
+		"descriere":"Bastionul Croitorilor ",
+		"SSID":"WIFI4EU"
+	},
+	{
+		"lat":"46.765852",
+		"lon":"23.626777",
+		"descriere":"Parc Detunata",
+		"SSID":"WIFI4EU"
+	}
+]
